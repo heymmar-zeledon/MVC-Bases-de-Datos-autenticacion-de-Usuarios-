@@ -1,0 +1,23 @@
+.smm{
+    width: 40%;
+}
+.btn-login
+{
+    width: 25%
+}
+.img-login
+{
+    width: 10%;
+    height: 10%;
+    border-radius: 10px;
+}
+.cont-login-in
+{
+    background-color:rgb(229, 237, 240);
+    padding:20px;
+    text-align:center;
+    align-self: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

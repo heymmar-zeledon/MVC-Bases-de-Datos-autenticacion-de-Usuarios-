@@ -1,0 +1,67 @@
+.hijo
+{
+    background-color:rgb(229, 237, 240);
+    padding:20px;
+    text-align:center;
+    border-radius: 10px;
+}
+.container
+{
+    background-color:rgb(109, 107, 103);
+    padding-bottom: 5px;
+    margin-top: 25px;
+    align-self: auto;
+    border-radius: 10px;
+}
+#h4
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    color:whitesmoke;
+    background-color: rgb(49, 43, 43);
+}
+#persona
+{
+    width: 20%;
+}
+#auto
+{
+    width: 20%;
+}
+.cont2
+{
+    max-width: 100%;
+    max-height: 5%;
+    background-color: rgb(109, 106, 106);
+}
+.nav
+{
+    padding-top: 10px;
+    background-color: rgb(236, 236, 236);
+    border: 2px;
+}
+.container-fluid
+{
+    background-color:rgb(247, 247, 247);
+    border-style:double;
+    padding-bottom: -20px;
+    margin-top: 15px;
+    align-self: auto;
+    border-radius: 10px;
+    max-width: 60%;
+}
+.container-tabla
+{
+    background-color:rgb(247, 247, 247);
+    border-style:double;
+    text-align: center;
+    border-radius: 10px;
+    max-width: 100%;
+}
+.btn-small
+{
+    height: 41px;
+    width: 20%;
+    border-color: deepskyblue;
+    background-color: rgb(243, 242, 242);
+}
